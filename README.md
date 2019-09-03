@@ -7,7 +7,7 @@ Sub Graph Preview | Usage Example
 ![Sub Graph Preview](/Examples/ShaderPreview.PNG) | ![Usage example](/Examples/UsageExample.PNG)
 
 ![Racket Example](/Examples/RacketExample.gif)
-Note: The warping happening with tiling values != 0 can be used to counteract the stretching of the material that happens when the scale of the object changes.
+Note: _The warping happening with tiling values != 1 can be used to counteract the stretching of the material that happens when the scale of the object changes._
 
 <b>Built with</b>
 - [Unity3D Shader Graph](https://unity.com/shader-graph)
