@@ -4,9 +4,9 @@ This shader provides a black and white alpha map resembling a net without using 
 ## Screenshots
 Sub Graph Preview | Usage Example
 ------------ | -------------
-![Sub Graph Preview](https://i.imgur.com/gpTS6PV.png) | ![Usage example](https://i.imgur.com/UyPPI1w.png)
+![Sub Graph Preview](/Examples/ShaderPreview.PNG) | ![Usage example](/Examples/UsageExample.PNG)
 
-![Racket Example](https://gfycat.com/browncooldeer-shader-graph-unity3d-net.gif)
+![Racket Example](/Examples/RacketExample.gif)
 
 <b>Built with</b>
 - [Unity3D Shader Graph](https://unity.com/shader-graph)
