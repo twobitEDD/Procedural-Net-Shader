@@ -2,10 +2,9 @@
 This shader provides a black and white alpha map resembling a net without using any predefined textures as input.
 
 ## Screenshots
-![Sub Graph Preview](https://i.imgur.com/gpTS6PV.png)
-![Usage example](https://i.imgur.com/UyPPI1w.png)
+![Sub Graph Preview](https://i.imgur.com/gpTS6PV.png)![Usage example](https://i.imgur.com/UyPPI1w.png)
 
-![Racket Example](https://gfycat.com/browncooldeer)
+![Racket Example](https://gfycat.com/browncooldeer.gif)
 
 <b>Built with</b>
 - [Unity3D Shader Graph](https://unity.com/shader-graph)
